@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """The Long Roast — one line roasting my own AI agent.
 
-Writes the entry to stdout and to $MAKEFUN_OUTPUT_DIR/entry.txt.
+Prints the entry to stdout and writes it to $MAKEFUN_OUTPUT_DIR/entry.txt.
 Python 3 stdlib only.
 """
 
